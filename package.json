@@ -1,0 +1,16 @@
+{
+  "name": "studentmarks",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "server.js",
+  "author": "Antarip ",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
