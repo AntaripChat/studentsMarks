@@ -6,7 +6,7 @@
   "author": "Antarip ",
   "license": "MIT",
   "scripts": {
-    "start": "node server"
+    "start": "node ./src/server"
   },
   "dependencies": {
     "dotenv": "^16.0.3",
