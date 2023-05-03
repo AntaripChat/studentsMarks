@@ -1,2 +1,2 @@
 # studentsMarks
-task___
+task
